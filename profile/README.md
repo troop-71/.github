@@ -2,5 +2,3 @@
 
 Content and tooling related to https://troop-71.com
 
-:scouts:
-
